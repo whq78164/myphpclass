@@ -52,6 +52,10 @@ class Split {
 
 
     }
+	
+	
+	
+	
 
 $user=new Split();
     $user->SetID('0');
@@ -63,6 +67,5 @@ $user=new Split();
  print_r($inf00['openid'].'------'.$inf00['nick_name']);
  //   print_r($inf11);
 
-}
 
 ?>
